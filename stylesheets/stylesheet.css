@@ -657,8 +657,8 @@ form {
 #main-content h3:before {
   padding-right: 0.3em;
   margin-left: -2em;
-  content: "///";
-  color: #9ddcff;
+  content: "＊＊";
+  color: #CC00CC;
 }
 
 #main-content h4 {
